@@ -3,3 +3,4 @@ qualification : BE
 Department : IT
 College : BVCOEW
 Branch name : Dev
+CGPA : 8.08
